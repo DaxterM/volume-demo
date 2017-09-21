@@ -3,6 +3,7 @@ Persistent Volume Demo
 =============
 
 A sample application demonstrating persistent volumes. 
+<kbd>![alt-text](https://github.com/azwickey-pivotal/volume-demo/blob/master/app.png)</kbd>
 ```
 $ git clone https://github.com/DaxterM/volume-demo/
 $ cd volume-demo
